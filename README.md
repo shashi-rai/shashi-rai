@@ -2,13 +2,18 @@
 
 I am a __full stack__ `software developer`. I have worked for more than **two decades** in the Information Technology sector globally.
 Having worked in more than **thirty three** countries as an IT Strategy Consultant, Program Manager, Business Analyst, Requirements Engineer,
-Enterprise Architect, Software Developer, Performance Engineer, Technical Writer, etc roles with tier-1 multi-national companies, I have
-gained significant experience in __high-performance__, enterprise-grade software **product development** and complex **system integration**. 
+Enterprise Architect, Software Developer, Performance Engineer, Technical Writer, etc roles with government organizations and tier-1
+multi-national companies (e.g., STC Solutions, AT&T, Comptel, KPN Telecom, Liberty Global, Virgin Media, British Telecom, Sony Corporation,
+InfoTrack, NLB, iDA, HP, CA, Borland, Quark, Credit Suisse, NEC Corporation, DSQ Software, ICNET, Tech Mahindra, etc), I have gained
+significant experience in __high-performance__, enterprise-grade software **product development** and complex **system integration**.
+Besides technology sector, I have worked on IT projects of government, investment banking, insurance, manufacturing, logistics,
+transportation, retail and/or eCommerce sector 
 
 - 👀 I’m interested in software product development opportunities
 - 🌱 I’m currently learning Quantum Computing and Synthetic Biology
 - 💞️ I’m looking to collaborate on technical documentation
-- 📫 Email: raisb[at]yahoo[dot]com Voice/Text: +1 (628) 200-4199
+- 📫 Email: [raisb@yahoo.com](mailto:raisb@yahoo.com), Voice/Text: [+1 (628) 200-4199](tel:16282004199)
+- LinkedIn: [https://www.linkedin.com/in/raisb](https://wwwl.inkedin.com/in/raisb)
 
 ## Programming Experience
 
@@ -74,6 +79,23 @@ You can look at my __software portfolio__ at the [Bhojpur Consulting](https://gi
 ## My Specialization
 
 I am very strong in `Digital Transformation`, `Enterprise Architecture`, `Product Engineering`, `Cloud Engineering`, `Multi-Tenancy Enablement`, `Performance Engineering`, etc. I have been delivering consulting services to C-level executives globally in several emerging technology areas.
+
+## Educational Qualification
+
+I have completed and earned the following degree/diploma from reputed institutions in India.
+- Master of Computer Applications
+- Master of Business Administration
+- Bachelor of Business Administration
+- Advanced Diploma in Systems Management
+
+## Additional Training
+
+I have completed and earned the following training from industry's market leading compaines
+- Zoho One Suite
+- CA Wily Introscope
+- CA SiteMinder
+- G-Suite Workspace
+- PMP Preparation
 
 ## [Entrepreneurship](https://en.wikipedia.org/wiki/Entrepreneurship)
 
