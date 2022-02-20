@@ -4,7 +4,7 @@ I am a __full stack__ `software developer`. I have worked for more than **two de
 Having worked in more than **thirty three** countries as an IT Strategy Consultant, Program Manager, Business Analyst, Requirements Engineer,
 Enterprise Architect, Software Developer, Performance Engineer, Technical Writer, etc roles with government organizations and tier-1
 multi-national companies (e.g., STC Solutions, AT&T, Comptel, KPN Telecom, Liberty Global, Virgin Media, British Telecom, Sony Corporation,
-InfoTrack, NLB, iDA, HP, CA, Borland, Quark, Credit Suisse, NEC Corporation, DSQ Software, ICNET, Tech Mahindra, etc), I have gained
+InfoTrack, NLB, iDA, HP, CA, Borland Software Corporation, Quark, Credit Suisse, NEC Corporation, DSQ Software, ICNET, Tech Mahindra, etc), I have gained
 significant experience in __high-performance__, enterprise-grade software **product development** and complex **system integration**.
 Besides technology sector, I have worked on IT projects of government, investment banking, insurance, manufacturing, logistics,
 transportation, retail and/or eCommerce sector 
@@ -17,7 +17,7 @@ transportation, retail and/or eCommerce sector
 
 ## Programming Experience
 
-I am hands-on and comfortable developing __multi-tenant__, **web-scale** software products (e.g. distributed application's client/server, backend SOAP/RESTful APIs), source code generators, compilers, data processors, utility software tools, etc in multiple programming languages for several years. For example
+For several years, I am hands-on and comfortable developing __multi-tenant__, **web-scale** software products (e.g. distributed application's client/server, backend SOAP/RESTful APIs), source code generators, compilers, data processors, utility software tools, etc in multiple programming languages. For example
 - Go
 - Python
 - Solidity
@@ -87,6 +87,16 @@ I develop a wide range of software applications using different programming lang
 - IoT/M2M Application
 - AI/ML Application
 
+## Technical Writing
+
+For some clients, I contribute to the technical content writing in the following areas
+- Whitepapers
+- Blog Articles
+- Technical Solution Proposal
+- Software Requirements Specification
+- API documentation (based on SOAP/REST, GraphQL)
+- User Guide/Manuals (e.g., End User, Administrator, Developer)
+
 ## Portfolio Solutions
 
 You can look at my __software portfolio__ at the [Bhojpur Consulting](https://github.com/bhojpur) repository, where a __pre-integrated__ collection of software `libraries` related to the [Bhojpur.NET Platform](https://github.com/bhojpur/platform) ecosystem are listed. I design, develop, integrate, test, and utilize these pre-integrated software frameworks and tools to deliver high-performance, web-scale, cloud-aware multi-tenant software quickly to the clients.
@@ -116,4 +126,3 @@ I have completed the following training from industry's market leading compaines
 
 I am a __co-founder__ of the [Bhojpur Consulting](https://www.bhojpur-consulting.com) and [Yunica Retail](https://www.yunica.co.in)
 based in India. I am engaged by several clients in a `CTO` role for their company's products or solutions.
-
