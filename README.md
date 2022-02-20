@@ -11,13 +11,13 @@ transportation, retail and/or eCommerce sector
 
 - 👀 I’m interested in software product development opportunities
 - 🌱 I’m currently learning Quantum Computing and Synthetic Biology
-- 💞️ I’m looking to collaborate on technical documentation
+- 💞️ I’m looking to collaborate on `Unikernel` and technical documentation
 - 📫 Email: [raisb@yahoo.com](mailto:raisb@yahoo.com), Voice/Text: [+1 (628) 200-4199](tel:16282004199)
 - LinkedIn: [https://www.linkedin.com/in/raisb](https://wwwl.inkedin.com/in/raisb)
 
 ## Programming Experience
 
-I am hands-on and comfortable developing __multi-tenant__, **web-scale** software products (e.g. distributed applications, web services API) in multiple programming languages for several years. For example
+I am hands-on and comfortable developing __multi-tenant__, **web-scale** software products (e.g. distributed application's client/server, backend SOAP/RESTful APIs), source code generators, compilers, data processors, utility software tools, etc in multiple programming languages for several years. For example
 - Go
 - Python
 - Solidity
@@ -34,9 +34,12 @@ I am hands-on and comfortable developing __multi-tenant__, **web-scale** softwar
 - Kotlin
 - Swift
 - Objective C
+- x86 Assembly
 
-Additionally, I am proficient in the the following frameworks for __web-__ or __mobile-__ application development.
+I am proficient in the following __web-__ or __mobile-__ application software development frameworks.
 - Boostrap
+- Prototype
+- Tailwind CSS
 - React, React Native
 - Angular
 - Vue.js
@@ -44,15 +47,19 @@ Additionally, I am proficient in the the following frameworks for __web-__ or __
 - Django
 - Flutter
 
+Additionally, I work in the following __AI/ML__ application development frameworks.
+- TensorFlow
+
 ## Operating Environment
 
 I have hands-on experience working on multiple operating systems for software development. For example
 - Android
 - Apple iOS
 - Apple macOS
-- Linux (e.g. Redhat, CentOS, Ubuntu, Fedora, SUSE)
-- Unix (e.g. AIX, Solaris, )
+- Linux (e.g. Alpine, RHEL, CentOS, Debian, Ubuntu, Fedora, SUSE Linux Enterprise)
+- Unix (e.g. AIX, Solaris, OpenBSD)
 - Microsoft Windows
+- Raspberry Pi OS
 
 I have hands-on experience working on several `Cloud` (both __public-__ and __private-__) technologies for software development and cloud automation. For example
 - Amazon Web Services
@@ -64,13 +71,21 @@ I have hands-on experience working on several `Cloud` (both __public-__ and __pr
 - VMware
 - OpenStack
 
+I have hands-on experience working on following hardware platforms
+- x86
+- ARM
+- SPARC
+- Atmel
+
 ## Application Development
 
 I develop a wide range of software applications using different programming languages and software development kits. For example
 - Mobile Application
 - Web Application
 - Desktop Application
-- Blockchain Applicaiton
+- Blockchain Application
+- IoT/M2M Application
+- AI/ML Application
 
 ## Portfolio Solutions
 
@@ -84,13 +99,13 @@ I am very strong in `Digital Transformation`, `Enterprise Architecture`, `Produc
 
 I have completed and earned the following degree/diploma from reputed institutions in India.
 - Master of Computer Applications
-- Master of Business Administration
+- Master of Business Administration (Financial Management)
 - Bachelor of Business Administration
 - Advanced Diploma in Systems Management
 
 ## Additional Training
 
-I have completed and earned the following training from industry's market leading compaines
+I have completed the following training from industry's market leading compaines
 - Zoho One Suite
 - CA Wily Introscope
 - CA SiteMinder
